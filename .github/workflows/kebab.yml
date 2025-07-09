@@ -24,11 +24,6 @@ jobs:
           # Array of fun messages
           messages=(
             "📋 SURVEY TIME! Grab your thoughts and your feedback - it's VC&O Voice of Team Survey o'clock!",
-            "📝 The weekly survey pilgrimage begins! Time to wrap up work and wrap up that VC&O Voice of Team Survey!",
-            "⏰ Survey Wednesday has arrived! Your team's voice matters most at this time of the week!",
-            "🏃 Quick, to the survey! It's somewhere between 11:30am and 12:30pm on Survey Wednesday, mate!",
-            "🤑 It is me, the Survey fairy! I require your weekly feedback contribution.",
-            "🤠 It is near-high-noon, my dudes. It's also possibly not noon. I'm a bot built on github workflows. You get what you pay for.",
             "💡 Here is an idea, stop what you're doing and fill out your VC&O Voice of Team Survey.",
             "🕛 Bong Bong Bong Bong Bong Bong Bong Bong Bong Bong Bong Bong. It's time for that VC&O Voice of Team Survey."
           )
